@@ -1,3 +1,3 @@
 (function run() {
-	alert('nice2');
+	alert(document.cookie);
 })();
