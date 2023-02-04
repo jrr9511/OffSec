@@ -1,3 +1,3 @@
 (function run() {
-	alert('nice');
+	alert('nice2');
 })();
