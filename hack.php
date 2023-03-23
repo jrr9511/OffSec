@@ -1,4 +1,4 @@
 <?php
-echo 'Hacked by'
+echo 'Hacked by';
 ?>
 Juan Rovirosa
